@@ -1,0 +1,75 @@
+body{
+	background:#000;
+	margin:0;
+	padding:0;
+}
+
+
+
+
+
+
+/*** header section ***/
+		
+.bg-dark {
+    background-color: #000!important;
+}
+.picter{
+ 	background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(images/sub-header.png);
+  	width:100%;
+  	height:200px;
+ 	overflow:hidden;
+  	background-size:cover;
+}	
+
+/**start-event section**/	
+.event{
+  	background:#000;
+}
+
+/*** form contact section***/
+.cannect input,
+.cannect textarea{
+	width:100%;
+	padding:1rem .4rem;
+	font-size:1.1rem;
+}
+
+/*** start footer section ***/
+.h4, h4 {
+    font-size: 1rem;
+    color: #fff;
+}
+
+
+dl, ol, ul {
+    margin-top: 0;
+    margin-bottom:15px;
+    color: #fff;
+    font-size:.7rem;
+    line-height:1.8;
+}
+
+.lorem {
+    margin-top: 0;
+    margin-bottom:12px;
+    color: #fff;
+    font-size:.7rem;
+    line-height:1.8;
+}
+
+.content{
+	background:#1E2434;
+}
+
+.text-1{
+	color:#fff;
+	text-align:center;
+	font-size:.9rem;
+}
+
+.stay h4{
+	color:#C8B665;
+}
+
+
